@@ -1,0 +1,15 @@
+{
+    "name": "test-app",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "meta.5": "..\\breeze-tools\\bin\\MetadataGenerator.exe -i ..\\test-model\\model.5\\bin\\Debug\\model.5.dll -o metadata.json",
+        "meta.6": "..\\breeze-tools\\bin\\MetadataGenerator.exe -i ..\\test-model\\model.6\\bin\\Debug\\model.6.dll -o metadata.json",
+        "meta1.5": "..\\breeze-tools\\bin\\MetadataGenerator.exe -i ..\\test-model\\model1.5\\bin\\Debug\\model1.5.dll -o metadata.json",
+        "meta1.6": "..\\breeze-tools\\bin\\MetadataGenerator.exe -i ..\\test-model\\model1.6\\bin\\Debug\\model1.6.dll -o metadata.json"
+    },
+    "author": "",
+    "license": "ISC"
+}
