@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="BreezeTestModelStoreContainer" CdmEntityContainer="BreezeTestEntities">
+    <EntitySetMapping Name="Table1">
+      <EntityTypeMapping TypeName="BreezeTestModel.Table1">
+        <MappingFragment StoreEntitySet="Table1">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="Value" ColumnName="Value" />
+          <ScalarProperty Name="Data" ColumnName="Data" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

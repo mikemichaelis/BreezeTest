@@ -1,0 +1,10 @@
+X:\Git\BreezeTest\test-model\model1.6\bin\Debug\model1.6.dll.config
+X:\Git\BreezeTest\test-model\model1.6\bin\Debug\model1.6.dll
+X:\Git\BreezeTest\test-model\model1.6\bin\Debug\model1.6.pdb
+X:\Git\BreezeTest\test-model\model1.6\bin\Debug\EntityFramework.dll
+X:\Git\BreezeTest\test-model\model1.6\bin\Debug\EntityFramework.SqlServer.dll
+X:\Git\BreezeTest\test-model\model1.6\bin\Debug\EntityFramework.xml
+X:\Git\BreezeTest\test-model\model1.6\bin\Debug\EntityFramework.SqlServer.xml
+X:\Git\BreezeTest\test-model\model1.6\obj\Debug\model1.6.csprojResolveAssemblyReference.cache
+X:\Git\BreezeTest\test-model\model1.6\obj\Debug\model1.6.dll
+X:\Git\BreezeTest\test-model\model1.6\obj\Debug\model1.6.pdb

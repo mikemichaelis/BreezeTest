@@ -1,0 +1,8 @@
+X:\Git\BreezeTest\test-model\model.5\bin\Debug\model.5.dll.config
+X:\Git\BreezeTest\test-model\model.5\bin\Debug\model.5.dll
+X:\Git\BreezeTest\test-model\model.5\bin\Debug\model.5.pdb
+X:\Git\BreezeTest\test-model\model.5\bin\Debug\EntityFramework.dll
+X:\Git\BreezeTest\test-model\model.5\bin\Debug\EntityFramework.xml
+X:\Git\BreezeTest\test-model\model.5\obj\Debug\model.5.csprojResolveAssemblyReference.cache
+X:\Git\BreezeTest\test-model\model.5\obj\Debug\model.5.dll
+X:\Git\BreezeTest\test-model\model.5\obj\Debug\model.5.pdb
